@@ -1,5 +1,8 @@
 ########################################################################### NOTÍCIA
 
+#EXTINF:-1 tvg-id="GloboNews" tvg-logo="http://s10.postimg.org/nmpvs4hkl/gnews.png" group-title="JORNALISMO", GLOBO NEWS
+http://str03.ddns.net/075/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="JP NEWS" tvg-name="JP NEWS" tvg-logo="https://imgur.com/dAv0hm6.png" group-title="Canais | NOTÍCIAS",JP NEWS SD
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_3.m3u8
 
